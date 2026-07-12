@@ -1,0 +1,9 @@
+{
+  "status": "ACTIVE",
+  "allowed": [
+    "ec4ddfc1e0936632"
+  ],
+  "denied": [
+    "All"
+  ]
+}
