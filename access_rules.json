@@ -1,9 +1,10 @@
 {
   "status": "ACTIVE",
   "allowed": [
-    "ec4ddfc1e0936632"
+    "ec4ddfc1e0936632",
+    "72d4ca23b81fa537"
   ],
   "denied": [
-    "None"
+    "All"
   ]
 }
