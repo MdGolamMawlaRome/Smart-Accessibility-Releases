@@ -14,8 +14,10 @@
 ## 🛡️ Privacy & Permissions
 This app prioritizes your control. It features a highly user-friendly interface and only requests permissions (such as Accessibility Service) when absolutely necessary to make a specific feature work. Granting or denying these permissions is entirely up to you. 
 
+## Please note that we ( our app) will ask you some sensitive permissions as Accessibility, Install unknown apps. Because we want to give you best experience using the Accessibility button and using auto update at your commands. And NO data is collected. 
+
 ## 💡 Our Motive
-This application is completely **Free** and open-source. It was created with the sole intention of helping the community and making daily smartphone usage hassle-free for everyone.
+This application is completely **Free** and open/closed-source. It was created with the sole intention of helping the community and making daily smartphone usage hassle-free for everyone.
 
 
 
